@@ -1,0 +1,14 @@
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\bin\Debug\net10.0\Задание 1.exe
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\bin\Debug\net10.0\Задание 1.deps.json
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\bin\Debug\net10.0\Задание 1.runtimeconfig.json
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\bin\Debug\net10.0\Задание 1.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\bin\Debug\net10.0\Задание 1.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\Задание 1.AssemblyInfoInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\Задание 1.AssemblyInfo.cs
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\Задание 1.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\refint\Задание 1.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\Задание 1.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\Задание 1.genruntimeconfig.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\01 Practice 1\Задание 1\obj\Debug\net10.0\ref\Задание 1.dll
