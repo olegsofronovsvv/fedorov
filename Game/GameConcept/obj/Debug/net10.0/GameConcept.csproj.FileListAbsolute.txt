@@ -1,0 +1,14 @@
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\bin\Debug\net10.0\GameConcept.exe
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\bin\Debug\net10.0\GameConcept.deps.json
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\bin\Debug\net10.0\GameConcept.runtimeconfig.json
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\bin\Debug\net10.0\GameConcept.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\bin\Debug\net10.0\GameConcept.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\GameConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\GameConcept.AssemblyInfoInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\GameConcept.AssemblyInfo.cs
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\GameConcept.csproj.CoreCompileInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\GameConcept.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\refint\GameConcept.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\GameConcept.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\GameConcept.genruntimeconfig.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\Game\GameConcept\obj\Debug\net10.0\ref\GameConcept.dll

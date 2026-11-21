@@ -1,0 +1,11 @@
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\bin\Release\net10.0\DigitSysLib.deps.json
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\bin\Release\net10.0\DigitSysLib.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\bin\Release\net10.0\DigitSysLib.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\DigitSysLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\DigitSysLib.AssemblyInfoInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\DigitSysLib.AssemblyInfo.cs
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\DigitSysLib.csproj.CoreCompileInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\DigitSysLib.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\refint\DigitSysLib.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\DigitSysLib.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\NumSysSolution\DigitSysLib\obj\Release\net10.0\ref\DigitSysLib.dll

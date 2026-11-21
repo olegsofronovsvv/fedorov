@@ -1,0 +1,15 @@
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\bin\Debug\net10.0\employee.txt
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\bin\Debug\net10.0\Employee.exe
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\bin\Debug\net10.0\Employee.deps.json
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\bin\Debug\net10.0\Employee.runtimeconfig.json
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\bin\Debug\net10.0\Employee.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\bin\Debug\net10.0\Employee.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\Employee.AssemblyInfoInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\Employee.AssemblyInfo.cs
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\Employee.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\refint\Employee.dll
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\Employee.pdb
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\Employee.genruntimeconfig.cache
+C:\Users\liamd\OneDrive\Desktop\Федоров\06 class employee\obj\Debug\net10.0\ref\Employee.dll
